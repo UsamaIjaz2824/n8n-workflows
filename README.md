@@ -7,7 +7,6 @@ Each workflow is exportable, customizable, and designed for real automation use-
 # 📌 Workflows Included
 
 ## 1️⃣ Handling Job Application Submissions with AI & n8n Forms  
-:contentReference[oaicite:0]{index=0}  
 This workflow creates a **two-step job application system** with automated CV extraction, validation, and pre-filled forms using AI.  
 ### 🔥 Features
 - Applicant uploads a PDF CV via n8n form  
@@ -26,8 +25,7 @@ This workflow creates a **two-step job application system** with automated CV ex
 
 ---
 
-## 2️⃣ AI-Powered RAG Workflow for Stock Earnings Report Analysis  
-:contentReference[oaicite:1]{index=1}  
+## 2️⃣ AI-Powered RAG Workflow for Stock Earnings Report Analysis   
 A complete **Retrieval-Augmented Generation (RAG)** pipeline for analyzing Google/Alphabet quarterly earnings reports.
 
 ### 🔥 Features
@@ -47,7 +45,6 @@ A complete **Retrieval-Augmented Generation (RAG)** pipeline for analyzing Googl
 ---
 
 ## 3️⃣ Gmail Automation – AI Label Assignment  
-:contentReference[oaicite:2]{index=2}  
 This workflow auto-tags incoming Gmail messages with intelligent AI-generated categories.
 
 ### 🔥 Features
@@ -65,8 +62,7 @@ This workflow auto-tags incoming Gmail messages with intelligent AI-generated ca
 
 ---
 
-## 4️⃣ Compose Reply Draft in Gmail with OpenAI Assistant  
-:contentReference[oaicite:3]{index=3}  
+## 4️⃣ Compose Reply Draft in Gmail with OpenAI Assistant    
 Automatically drafts high-quality replies to emails and inserts them into Gmail as a **draft response**.
 
 ### 🔥 Features
@@ -85,8 +81,7 @@ Automatically drafts high-quality replies to emails and inserts them into Gmail 
 
 ---
 
-## 5️⃣ AI Agent for Project Management & Meeting Automation  
-:contentReference[oaicite:4]{index=4}  
+## 5️⃣ AI Agent for Project Management & Meeting Automation   
 A full AI agent workflow integrating **Fireflies**, **Airtable**, and **Google Calendar** for complete meeting → tasks → notifications automation.
 
 ### 🔥 Features
